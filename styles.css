@@ -1,0 +1,39 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.recipe-image {
+    width: 500px;
+    border: 3px solid #cb6843;
+}
+
+.credit {
+    font-style: italic;
+    font-size: 0.75em;
+    color: #cb6843;
+    margin-top: 0;
+}
+
+.credit a {
+    color: #cb6843;
+    text-decoration: none;
+}
+
+.credit a:hover {
+    text-decoration: underline;
+}
+
+h2 {
+    background-color: #cb6843;
+}
+
+/* colors I like: terracotta #cb6843  grape #8332ac  rose red #ca1551  screaming green #87ff65 */
